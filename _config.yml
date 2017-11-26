@@ -8,17 +8,17 @@ google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: mughnimind
-user_description: Some text about you.
+user_description: I said I...
 disqus_username: acemughnie
 
 # Social Media
 # Remove the item if you don't need it
 github_username: mughnimind
 # facebook_username: facebook_username
-# twitter_username: twitter_username
+ twitter_username: acemughnie
 instagram_username: acemughnie
 # linkedin_username: linkedin_username
-# medium_username: medium_username
+# medium_username: acemughnie
 
 # Build settings
 markdown: kramdown
@@ -32,12 +32,14 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Beranda
     url: /
-  - title: About
+  - title: Tentang
     url: /about/
-  - title: Contact
+  - title: Kontak
     url: /contact/
+  - title: Tagar
+    url: /tags/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
